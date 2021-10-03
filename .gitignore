@@ -7,8 +7,11 @@
 # MacOS
 .DS_Store
 
-# Data folder (too big)
-core/assets/datasets/
+# Data folders (too big)
+core/training_checkpoints
+core/kaggle_birds_224x224
+core/training_images
+core/training_results
 
 # pycache folder
 core/__pycache__
