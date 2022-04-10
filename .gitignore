@@ -11,6 +11,10 @@
 core/assets/datasets/
 core/assets/images/
 core/assets/models
+core/training_checkpoints
+core/kaggle_birds_224x224
+core/training_images
+core/training_results
 
 # pycache folder
 core/__pycache__
